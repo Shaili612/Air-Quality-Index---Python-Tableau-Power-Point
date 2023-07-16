@@ -29,3 +29,24 @@ Industrial: Sulfur dioxide is primarily emitted during the combustion of fossil 
 Vehicular/Transportation: Nitrogen dioxide is produced from the combustion of fossil fuels at high temperatures, primarily in vehicles. It is a prominent component of vehicle exhaust and is released during the combustion of gasoline and diesel in cars, trucks, motorcycles, and other motor vehicles.
 
 Industrial: Nitrogen dioxide can also be emitted from industrial activities such as power generation, manufacturing, and other combustion processes.
+
+## Hypothesis:
+
+1. Hypothesis: Air pollution levels (measured by O3, CO, SO2, and NO2) vary significantly between different states/counties/cities.
+2. Hypothesis: There is a relationship between air pollutant concentrations and specific days of the months or months of a year.
+
+    Explore whether air pollution levels exhibit any patterns or trends based on the day of the month (e.g., end of month) or the month of the year. This can help identify if certain days or seasons are associated with higher pollution levels.
+
+3. Hypothesis: There is a correlation between different air pollutants (O3, CO, SO2, NO2) and their respective Air Quality Index (AQI) values.
+
+    Analyze the relationships between different air pollutants and their corresponding AQI values. This can help determine if certain pollutants have a stronger impact on air quality or if there are consistent patterns across the pollutants.
+
+4. Hypothesis: The levels of specific air pollutants have changed over time.
+
+    Examine whether there have been any trends or changes in air pollutant concentrations over the years. This could involve analyzing yearly, monthly, or seasonal variations in the data.
+
+5. Hypothesis: There is a correlation between air pollutant concentrations and health impact (measured by AQI).
+
+    Investigate the relationship between air pollutant concentrations (such as O3, CO, SO2, NO2) and their corresponding AQI values. This can help understand the potential health risks associated with different pollutant levels. This would require data on hospital admissions related to respiratory symptoms or prevalence of respiratory diseases in a population. This would also require data on population density, socioeconomic factors, or weather conditions, that may also influence respiratory health outcomes. I will consider this hypothesis if I am able to find remaining data required.
+
+
